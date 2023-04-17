@@ -1,24 +1,27 @@
 # VueRecipe
 
-## Project setup
-```
-npm install
-```
+> webapp to uplaod and share recipes, bulid with Vue and Node.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Features
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Full wishlist
+- Recipe reviews and ratings
+- Recipe search feature
+- Recipe screen with similar recipes suggestions in the bottom
+- Recipe add,edit and delete
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Usages
+
+Env Variables
+Create a .env file in then root and add the following
+
+To run this project
+
+```javascript
+
+run : cd frontend,then npm install
+run : cd backend,then npm install
+to start dev mode, run on root file 'npm run dev'
+
+```
