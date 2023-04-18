@@ -1,6 +1,6 @@
 # VueRecipe
 
-> webapp to uplaod and share recipes, bulid with Vue and Node.js
+> webapp to uplaod and share recipes, bulid with Vue, Node.js/Express and Mongodb
 
 
 ## Features
