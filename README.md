@@ -10,13 +10,22 @@
 - Recipe search feature
 - Recipe screen with similar recipes suggestions in the bottom
 - Recipe add,edit and delete
-
+- Option to share recipes 
+- Full store manage with vuex
 ## Usages
 
 Env Variables
 Create a .env file in then root and add the following
 
 
+```javascript
+NODE_ENV=development
+PORT=8000
+JWT_SECRET="YOUR JWT_SECRET"
+MONGO_URI="YOUR MONGO_URI"
+
+
+```
 ```javascript
 
 run : cd frontend,then npm install
